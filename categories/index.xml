@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Miao Cai | 蔡苗</title>
-    <link>https://github.com/caimiao0714/main/categories/</link>
+    <link>https://caimiao0714.github.io/main/categories/</link>
     <description>Recent content in Categories on Miao Cai | 蔡苗</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="https://github.com/caimiao0714/main/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://caimiao0714.github.io/main/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development</title>
-      <link>https://github.com/caimiao0714/main/categories/development/</link>
+      <link>https://caimiao0714.github.io/main/categories/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/caimiao0714/main/categories/development/</guid>
+      <guid>https://caimiao0714.github.io/main/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>https://github.com/caimiao0714/main/categories/golang/</link>
+      <link>https://caimiao0714.github.io/main/categories/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/caimiao0714/main/categories/golang/</guid>
+      <guid>https://caimiao0714.github.io/main/categories/golang/</guid>
       <description></description>
     </item>
     

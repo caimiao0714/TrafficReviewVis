@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Miao Cai | 蔡苗</title>
-    <link>https://github.com/caimiao0714/main/tags/</link>
+    <link>https://caimiao0714.github.io/main/tags/</link>
     <description>Recent content in Tags on Miao Cai | 蔡苗</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://github.com/caimiao0714/main/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://caimiao0714.github.io/main/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development</title>
-      <link>https://github.com/caimiao0714/main/tags/development/</link>
+      <link>https://caimiao0714.github.io/main/tags/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/caimiao0714/main/tags/development/</guid>
+      <guid>https://caimiao0714.github.io/main/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go</title>
-      <link>https://github.com/caimiao0714/main/tags/go/</link>
+      <link>https://caimiao0714.github.io/main/tags/go/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/caimiao0714/main/tags/go/</guid>
+      <guid>https://caimiao0714.github.io/main/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>https://github.com/caimiao0714/main/tags/golang/</link>
+      <link>https://caimiao0714.github.io/main/tags/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/caimiao0714/main/tags/golang/</guid>
+      <guid>https://caimiao0714.github.io/main/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>https://github.com/caimiao0714/main/tags/hugo/</link>
+      <link>https://caimiao0714.github.io/main/tags/hugo/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/caimiao0714/main/tags/hugo/</guid>
+      <guid>https://caimiao0714.github.io/main/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Templates</title>
-      <link>https://github.com/caimiao0714/main/tags/templates/</link>
+      <link>https://caimiao0714.github.io/main/tags/templates/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/caimiao0714/main/tags/templates/</guid>
+      <guid>https://caimiao0714.github.io/main/tags/templates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Themes</title>
-      <link>https://github.com/caimiao0714/main/tags/themes/</link>
+      <link>https://caimiao0714.github.io/main/tags/themes/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/caimiao0714/main/tags/themes/</guid>
+      <guid>https://caimiao0714.github.io/main/tags/themes/</guid>
       <description></description>
     </item>
     
